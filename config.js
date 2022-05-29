@@ -11,7 +11,6 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Raven',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: true,
